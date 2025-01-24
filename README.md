@@ -1,8 +1,29 @@
-# React + Vite
+# React E-Commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
 
-Currently, two official plugins are available:
+This React E-Commerce Application is a web-based platform that provides users with an interactive shopping experience. It includes features for browsing products, managing a shopping cart, and handling user authentication. The project is designed with reusable components and routing for a seamless user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **User Authentication:**
+  - Login system with private routes for protected pages.
+  
+- **Product Management:**
+  - View product categories and filter products by category.
+  - Display product details.
+  - Add or remove items from the cart.
+  - Mark items as favorites.
+  
+- **Error Handling:**
+  - Custom 404 page for undefined routes.
+  
+- **Responsive Design:**
+  - Optimized for different devices.
+
+## Technologies Used
+
+- **Frontend Framework:** React
+- **Routing:** React Router
+- **State Management:** React State API
+- **Linting:** ESLint (configuration in `.eslintrc.cjs`)
