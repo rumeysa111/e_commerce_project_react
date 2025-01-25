@@ -14,12 +14,6 @@ This React E-Commerce Application is a web-based platform that provides users wi
   - Display product details.
   - Add or remove items from the cart.
   - Mark items as favorites.
-  
-- **Error Handling:**
-  - Custom 404 page for undefined routes.
-  
-- **Responsive Design:**
-  - Optimized for different devices.
 
 ## Technologies Used
 
