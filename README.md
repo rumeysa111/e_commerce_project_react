@@ -2,14 +2,11 @@
 
 ## About the Project
 
-This React E-Commerce Application is a web-based platform that provides users with an interactive shopping experience. It includes features for browsing products, managing a shopping cart, and handling user authentication. The project is designed with reusable components and routing for a seamless user experience.
+This React E-Commerce Application is a web-based platform that provides users with an interactive shopping experience. It includes features for browsing products, managing a shopping cart. The project is designed with reusable components and routing for a seamless user experience.
 
 ## Features
 
-- **User Authentication:**
-  - Login system with private routes for protected pages.
-  
-- **Product Management:**
+   - **Product Management:**
   - View product categories and filter products by category.
   - Display product details.
   - Add or remove items from the cart.
