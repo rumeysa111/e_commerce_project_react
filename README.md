@@ -1,4 +1,4 @@
-# React E-Commerce Application
+
 
 ## About the Project
 
